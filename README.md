@@ -118,6 +118,6 @@ Graph/
 ---
 
 ## 📜 แหล่งอ้างอิง (References)
-- เอกสารประกอบการสอนวิชา **000000 / SC000000 Data Structures: Chapter 11 Graph**
+- เอกสารประกอบการสอนวิชา **CP352001 Data Structures: Chapter 11 Graph**
 - มหาวิทยาลัยขอนแก่น (Khon Kaen University)
 - ผู้สอน: ผศ.ดร.สิลดา อินทรโสธรฉันท์
